@@ -139,7 +139,7 @@ public class WordController {
 
 				ModelAttr modelAttrData = new ModelAttr();
 				modelAttrData.setRequire(true);
-				modelAttrData.setName("msg");
+				modelAttrData.setName("data");
 				modelAttrData.setType("object");
 				modelAttrData.setDescription("应答数据");
 				modelAttrData.setCompleted(false);
